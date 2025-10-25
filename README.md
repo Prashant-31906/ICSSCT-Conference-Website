@@ -31,7 +31,7 @@ The platform is designed with simplicity and usability in mind, ensuring attende
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/ICSSCT
+   git clone https://github.com/Prashant-31906/ICSSCT-Conference-Website.git
    ```
 2. Open the project folder.
 3. Run the `index.html` file in your browser.
@@ -39,18 +39,6 @@ The platform is designed with simplicity and usability in mind, ensuring attende
 
 ---
 
-### 💡 Future Enhancements
-
-* Add backend support for actual form submissions.
-* Include dynamic event updates using JavaScript or API integration.
-* Improve accessibility (A11y) and SEO optimization.
-
----
-
-### 👨‍💻 Developer
-
-**Developed by:** [Your Name](https://github.com/<your-username>)
-**Role:** Sole Frontend Developer
 
 ---
 
