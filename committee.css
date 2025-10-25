@@ -1,0 +1,26 @@
+.committee {
+    height: 15vmin;
+}
+.float-right {
+    float: right !important;
+}
+.card {
+    background-color: white;
+    color: black;
+}
+.card-title {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.card hr {
+    margin: 0.5rem 0;
+    border-color: #043551;
+}
+.details-link {
+    color: #007bff;
+    text-decoration: none;
+}
+.details-link:hover {
+    text-decoration: underline;
+}
